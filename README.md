@@ -1,3 +1,3 @@
 # jsonProject
 
-Rcs and P3 Json files.
+All javascript files required for plug room. (includes autowoot and etc scripts)
