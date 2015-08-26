@@ -1,1 +1,50 @@
-
+.icon { 
+    background-image: url('http://i.imgur.com/57rIEAI.png'); 
+}
+#footer-user .item > .icon-history-white { 
+    background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+    top: 12px; 
+}
+#room-bar .icon-room { 
+    background-image: url('http://i.imgur.com/tXAsNSX.png') !important;  
+    top: 11px;
+    left: 7px;
+}
+#footer-user .info .bar .progress {
+    background: #EC5B5B;
+    border-radius: 1px 2pc;
+    box-shadow: #EC5B5B 0 0 20px;
+}
+#footer-user .info .meta div.bar {
+    background: #555d70;
+    border-radius: 1px 1pc;
+}
+#footer-user .info .pp {
+    position: absolute;
+    top: 22px;
+    left: 4px;
+}
+.experience .xp .bar {
+    border-radius: 1px 2pc;
+}
+.experience .xp .bar .progress {
+    background: #EEC5B5B;
+    border-radius: 1px 2pc;
+    box-shadow: #EC5B5B 0 0 20px;
+}
+.user-content.profile .meta.is-staff .role span {
+    color: #EC5B5B;
+    top: 2px;
+}
+#plug-menu: {
+    background": rgba(40, 44, 53, 0.94) !important
+}
+#footer: {
+   background: linear-gradient(to bottom,#180000   0,#180000  90%)
+}
+#playlist-button: {
+   "background": "linear-gradient(to bottom,#FF5CDE 0,#5700FF 100%)"
+   }
+"#header": {
+   "background": "linear-gradient(to bottom,#000000 0,#000000 90%)"
+},
