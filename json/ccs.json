@@ -1,7 +1,7 @@
 {
     "room": "BalkanParty",
     "author": "Ajdin_Voli_Adnu",
-    "icon": null,
+    "icon": "http://i.imgur.com/5dPzAfr.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -26,8 +26,8 @@
         "user": null
     },
     "images": {
-        "background": null,
-        "playback": null,
+        "background": "http://i.imgur.com/wTPJ1RP.jpg",
+        "playback": "http://i.imgur.com/toCoya3.jpg",
         "admin": null,
         "ambassador": null,
         "host": null,
