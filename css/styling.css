@@ -84,3 +84,12 @@
 #dj-button .left {
   background: #F3B4FF;
 }
+#woot .bottom, #woot.selected {
+    background: #DBA901;
+}
+#grab .bottom, #grab.selected {
+    background: #DF0174;
+}
+#meh .bottom, #meh.selected {
+    background: #088A85;
+}
