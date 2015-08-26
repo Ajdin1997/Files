@@ -2,7 +2,7 @@
     "room": "BalkanParty",
     "author": "Ajdin_Voli_Adnu",
     "icon": "http://i.imgur.com/5dPzAfr.png",
-    "css": null,
+    "css": "https://rawgit.com/MrAjdin/ProjectX/master/css/styling.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
