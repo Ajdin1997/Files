@@ -93,3 +93,6 @@
 #meh .bottom, #meh.selected {
     background: #088A85;
 }
+#dj-button.is-leave .left, #dj-button.is-quit .left {
+    background: #088A85;
+}
