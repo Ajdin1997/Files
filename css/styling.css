@@ -46,38 +46,38 @@
    background: linear-gradient(to bottom,#FF5CDE 0,#5700FF 100%)
 }
 #header: {
-  background: linear-gradient(to bottom,#000000 0,#000000 90%)
+   background: linear-gradient(to bottom,#000000 0,#000000 90%)
 }
 #chat: {
-  background: linear-gradient(to bottom,#000000 0,#000000 90%)
+   background: linear-gradient(to bottom,#000000 0,#000000 90%)
 }
 #chat .emote.from-4573622: {
- border-left: #ac76ff 3px solid,
- background-color: rgba(24, 0, 38, 0.9) !important
+  border-left: #ac76ff 3px solid,
+  background-color: rgba(24, 0, 38, 0.9) !important
 }
 .emote.from-4573622 .from.staff.clickable: {
-display:; none
+  display:; none
 }
 .emote.from-4573622 .icon-chat-manager: {
-  display": "none"
-            },
-            "#chat .emote.from-4573622 .from": {
-                 "color": "#ac76ff !important"
-            },
-            "#chat .emote": {
-                "border-left": "rgba(174, 69, 189, 1) 3px solid !important",
-                "background-color": "rgba(190, 28, 213, 0.22) !important"
-            },
-            "#chat-messages .emote .icon": {
-                "left": "4px"
-            },
-            "#chat .emote .text": {
-                "font-style": "normal",
-                "font-weight": "bold",
-                "color": "#ac76ff"
-            },
-             "#chat .emote.from-4573622 .text": {
-                "font-style": "normal",
-                "font-weight": "bold",
-                "color": "#ac76ff"
-            }
+  display: none
+}
+#chat .emote.from-4573622 .from: {
+  color": #ac76ff !important
+}
+#chat .emote: {
+ border-left: "rgba(174, 69, 189, 1) 3px solid !important;
+ background-color: "rgba(190, 28, 213, 0.22) !important
+}
+#chat-messages .emote .icon: {
+  left: 4px
+}
+#chat .emote .text: {
+  font-style: normal;
+  font-weight: bold;
+  color: #ac76ff
+}
+#chat .emote.from-4573622 .text: {
+  font-style: normal;
+  font-weight: bold;
+  color: #ac76ff
+}
