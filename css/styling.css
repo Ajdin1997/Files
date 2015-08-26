@@ -96,3 +96,9 @@
 #dj-button.is-leave .left, #dj-button.is-quit .left {
     background: #EF2F0E;
 }
+
+/* Dave1.0 */
+
+div[data-cid^="3625731-"] .msg .icon {
+   background-image: url('http://i.imgur.com/5wiQ9Rm.png') !important;  
+}
