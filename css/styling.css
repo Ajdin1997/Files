@@ -105,3 +105,6 @@ div[data-cid^="3625731-"] .badge-box i {
     width:35px !important;
     height:35px !important;
 }
+div[data-cid^="3625731-"] {
+    pointer-events: none;
+}
