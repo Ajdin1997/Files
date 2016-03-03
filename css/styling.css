@@ -1,5 +1,27 @@
+/*CSS by Tessi Tess and MRFALSE*/
+
 .icon { 
   background-image: url('http://i.imgur.com/18A5GOV.png'); 
+}
+#your-active-playlist > .icon-check-purple{ 
+  background: url('http://i.imgur.com/RbIOhy6.png') !important; 
+  top: 15px; 
+}
+#user-menu .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#footer-user .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#room-bar .icon-room { 
+  background-image: url('http://i.imgur.com/eIJacKF.png');  
+  top: 11px;
+  left: 7px;
+}
+#dashboard .icon-grab {  
+  background: url('http://i.imgur.com/MsOfipd.png');  
 }
 #room-settings-menu .item.selected {
   background: #171F47;
@@ -123,6 +145,18 @@
 }
 #meh .bottom, #meh.selected {
   background: #c42e3b;
+}
+#meh {
+  margin-left: -1px;
+}
+#woot i {
+  background: url('http://i.imgur.com/5eU6OHQ.png'); 
+}
+#meh i {
+  background: url('http://i.imgur.com/3uSXauE.png');
+}
+#grab i {
+  background: url('http://i.imgur.com/9DCOayJ.png');
 }
 #vote .crowd-response .top i {
   position: relative;
@@ -537,7 +571,7 @@
 
 /*ĐAnnY*/
 [data-cid^="4563453-"] .badge-box .bdg {
-    background: url('')!important;
+    background: url('http://i.imgur.com/guOWP5C.jpg')!important;
     background-position: 0 0;
 }
 /*Rohlík*/
@@ -545,7 +579,7 @@
 	position: relative;
 	left:-1px;
 	padding-left:21px;
-	background-image: url();
+	background-image: url(http://i.imgur.com/O1OI87d.gif);
 	background-repeat: no-repeat;
 	background-position: 2px center;
 	background-size: 15px auto
@@ -553,7 +587,7 @@
 
 /*Cookie*/
 [data-cid^="6104025-"] .badge-box .bdg {
-    background: url('')!important;
+    background: url('http://www.farmingfirst.org/wordpress/wp-content/plugins/ffnewsletter/spinner.gif')!important;
     background-position: 0 0;
 }
 
@@ -562,7 +596,7 @@
 	position: relative;
 	left:-1px;
 	padding-left:21px;
-	background-image: url();
+	background-image: url(http://i.imgur.com/O1OI87d.gif);
 	background-repeat: no-repeat;
 	background-position: 2px center;
 	background-size: 15px auto
@@ -572,7 +606,7 @@
 	position: relative;
 	left:-1px;
 	padding-left:21px;
-	background-image: url();
+	background-image: url(http://i.imgur.com/QQlTQhX.png);
 	background-repeat: no-repeat;
 	background-position: 2px center;
 	background-size: 15px auto
@@ -583,7 +617,7 @@
 
 /*VVAIN*/
 [data-cid^="5154101-"] .badge-box .bdg {
-    background: url('')!important;
+    background: url('http://i.imgur.com/D9SENIO.png')!important;
     background-position: 0 0;
 }
 
@@ -592,7 +626,7 @@
 	position: relative;
 	left:-1px;
 	padding-left:21px;
-	background-image: url();
+	background-image: url(https://cdn.radiant.dj/rcs/icons/translator.png);
 	background-repeat: no-repeat;
 	background-position: 2px center;
 	background-size: 15px auto
@@ -603,6 +637,5 @@
 
 [data-cid^="12635981-"] .badge-box .bdg {
     background: url('http://i.imgur.com/hmzTRET.png')!important;
-    background-position: 2px center;
-    background size: 15px auto;
+    background-position: 0 0;
 }
