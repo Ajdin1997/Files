@@ -1,26 +1,6 @@
 .icon { 
   background-image: url('http://i.imgur.com/18A5GOV.png'); 
 }
-#your-active-playlist > .icon-check-purple{ 
-  background: url('http://i.imgur.com/RbIOhy6.png') !important; 
-  top: 15px; 
-}
-#user-menu .item > .icon-history-white { 
-  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
-  top: 12px; 
-}
-#footer-user .item > .icon-history-white { 
-  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
-  top: 12px; 
-}
-#room-bar .icon-room { 
-  background-image: url('http://i.imgur.com/eIJacKF.png');  
-  top: 11px;
-  left: 7px;
-}
-#dashboard .icon-grab {  
-  background: url('http://i.imgur.com/MsOfipd.png');  
-}
 #room-settings-menu .item.selected {
   background: #171F47;
 }
@@ -143,18 +123,6 @@
 }
 #meh .bottom, #meh.selected {
   background: #c42e3b;
-}
-#meh {
-  margin-left: -1px;
-}
-#woot i {
-  background: url(''); 
-}
-#meh i {
-  background: url('');
-}
-#grab i {
-  background: url('');
 }
 #vote .crowd-response .top i {
   position: relative;
