@@ -635,5 +635,6 @@
 
 [data-cid^="12635981-"] .badge-box .bdg {
     background: url('http://i.imgur.com/hmzTRET.png')!important;
-    background-position: 0 0;
+    background-position: 2px center;
+    background size: 15px auto;
 }
