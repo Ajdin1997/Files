@@ -1,19 +1,33 @@
 {
     "room": "BalkanParty",
-    "author": "Tessi Tess & Ajdin",
-    "icon": "http://i.imgur.com/5dPzAfr.png",
-    "css": "https://rawgit.com/MrAjdin/ProjectX/master/css/styling.css",
+    "author": "Tessi Tess & THE FALSE",
+    "css": "https://github.com/MrAjdin/Files/blob/master/css/styling.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
         "allowAutojoin": true,
         "allowAutograb": true,
-        "allowSmartVote": true,
+        "allowSmartVote": false,
         "allowEmotes": true,
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
     "ccc": {
+        "admin": "#42A5DC",
+        "ambassador": "",
+        "host": "#76FF03",
+        "cohost": "#76FF03",
+        "manager": "#76FF03",
+        "bouncer": "#76FF03",
+        "rdj": "#76FF03",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": "#777F92"
+    },
+    "images": {
+        "background": "http://i.imgur.com/ehYSnG3.jpg",
+        "playback": null,
         "admin": null,
         "ambassador": null,
         "host": null,
@@ -22,22 +36,28 @@
         "bouncer": null,
         "rdj": null,
         "subscriber": null,
-        "friend": null,
-        "user": null
-    },
-    "images": {
-        "background": "http://i.imgur.com/wTPJ1RP.jpg",
-        "playback": "http://i.imgur.com/toCoya3.jpg",
-        "admin": null,
-        "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
-        "subscriber": null
+        "silversubscriber": null
     },
     "emotes": {
-    	"emote_name": null
+        "mfe": "",
+        "mrfalse": "",
+        "mrfalse2": "",
+        "danny": "",
+	"killman":"",
+	"siesbicho":"",
+	"mfebot":"",
+	"nyga":"",
+	"polkov":"",
+	"prasiak":"",
+	"rohlik":"",
+	"simco":"",
+	"tessi":"",
+	"yuno": "",
+	"deadend": "",
+	"mfe2": "",
+	"mfe3": "",
+	"mfe4": "",
+	"samik": "",
+	"doit": ""	
     }
 }
