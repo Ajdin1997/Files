@@ -4,44 +4,10 @@
   background-image: url('http://i.imgur.com/18A5GOV.png'); 
 }
 #your-active-playlist > .icon-check-purple{ 
-  background: url('http://i.imgur.com/RbIOhy6.png') !important; 
-  top: 15px; 
-}
-#user-menu .item > .icon-history-white { 
-  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
-  top: 12px; 
-}
-#footer-user .item > .icon-history-white { 
-  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
-  top: 12px; 
-}
-#room-bar .icon-room { 
-  background-image: url('http://i.imgur.com/eIJacKF.png');  
-  top: 11px;
-  left: 7px;
-}
-#dashboard .icon-grab {  
-  background: url('http://i.imgur.com/MsOfipd.png');  
-}
-#room-settings-menu .item.selected {
+  background: url('http://i.imgur.com/RbIOhy6.png') !important; room-settings-menu .item.selected {
   background: #171F47;
 }
 #room-settings .general-settings .option button.off {
-  background: #0057DD;
-}
-#room-settings .general-settings .option.enabled>button.on {
-  background: #10047B;
-}
-#user-lists .list.staff .group {
-  background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
-}
-#playlist-button {
-  background: linear-gradient(to bottom,#0A65D2 0,#011471 100%);
-}
-#app-header {
-  background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
-}
-#plug-dj {
   background: linear-gradient(to bottom,#0268AC 0,#02225C 100%);
 }
 .header-panel-button.selected {
