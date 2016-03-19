@@ -18,7 +18,7 @@
         "host": "#F2F5A9",
         "cohost": "#76FF03",
         "manager": "#FE2E2E",
-        "bouncer": "#F5F6CE",
+        "bouncer": "#000000",
         "rdj": "#FF8000",
         "subscriber": "#00FF00",
         "silversubscriber": null,
