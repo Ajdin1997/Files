@@ -1,7 +1,7 @@
 {
     "room": "BalkanParty",
     "author": "Ciker",
-    "css": "https://rawgit.com/1microfix/BP/master/tema.css",
+    "css": "https://rawgit.com/Ajdin1997/Files/master/css/rcs.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
