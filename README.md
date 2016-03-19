@@ -1,4 +1,4 @@
-# ProjectX
+# License
 
 Required json and css files.
 
