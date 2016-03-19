@@ -4,8 +4,7 @@ Required json and css files.
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Radiant Music
-Editors /Tessi tess & Ajdin/
+Copyright (c) 2015 BALKAN PArty [.cf]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
