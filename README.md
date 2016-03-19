@@ -1,7 +1,5 @@
 # License
 
-Required json and css files.
-
 The MIT License (MIT)
 
 Copyright (c) 2015 BALKAN PArty [.cf]
