@@ -1,7 +1,7 @@
 {
     "room": "BalkanParty",
-    "author": "Cobra",
-    "css": "https://rawgit.com/MrAjdin/Files/master/css/styling.css",
+    "author": "Ciker",
+    "css": "https://rawgit.com/1microfix/BP/master/tema.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
