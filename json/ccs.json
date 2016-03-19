@@ -17,10 +17,10 @@
         "ambassador": "null",
         "host": "#F2F5A9",
         "cohost": "#76FF03",
-        "manager": "#FE2E2E",
-        "bouncer": "#000000",
+        "manager": "##FF00BF",
+        "bouncer": "#58FAF4",
         "rdj": "#FF8000",
-        "subscriber": "#00FF00",
+        "subscriber": "#DBA901",
         "silversubscriber": null,
         "friend": null,
         "user": "#777F92"
