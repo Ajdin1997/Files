@@ -37,7 +37,7 @@
                 "background": "#5A071C;"
             },
             "#app-menu, #app-menu .list": {
-                "background": "#5A071C;"
+                "background": "#121212;"
             },
             "#footer-user .buttons": {
                 "background": "#05051F;"
