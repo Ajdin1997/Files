@@ -67,7 +67,7 @@
 
     },
     "images": {
-        "background": "http://i.imgur.com/fESBojm.png",
+        "background": "http://i.imgur.com/u36VR4n.png",
         "booth": "",
         "playback": "http://i.imgur.com/toCoya3.jpg",
     "icons":{
