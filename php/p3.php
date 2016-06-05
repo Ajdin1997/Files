@@ -53,6 +53,10 @@
                "background": "#121212;",
                 "border-right": "1px solid blue;"
             },
+            "#room-settings-menu": {
+               "background": "#0E121B;",
+               "border-right": "1px solid blue"
+            },
             "#chat .emote": {
                 "border-left": "rgba(174, 69, 189, 1) 3px solid !important",
                 "background-color": "rgba(190, 28, 213, 0.22) !important"
