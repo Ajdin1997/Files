@@ -62,7 +62,8 @@
                 "background-color": "rgba(190, 28, 213, 0.22) !important"
             },
             ".message.from-3625731 .from": {
-                 "pointer-events": "none !important" 
+                 "pointer-events": "none !important",
+                 "background": "url("http://i.imgur.com/EV8fNiE.png") center no-repeat;"
              },
             "#chat-messages .emote .icon": {
                 "left": "4px"
