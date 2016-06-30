@@ -39,8 +39,8 @@
           }
             
             .app-header {
-                background: #121212;
-                border-bottom: 2px solid blue;
+                background: #121212 !important;
+                border-bottom: 2px solid #fff !important;
           }
             
             #history-button {
