@@ -10,7 +10,7 @@
                  "border-top": "1px solid blue;"
             },
             "#room-bar .icon-room": {
-            "background-image": "url('http://i.imgur.com/ekvxgju.png');",
+            "background-image": "url("http://i.imgur.com/ekvxgju.png");",
             "top": "11px;",
             "left": "7px;",
             },
