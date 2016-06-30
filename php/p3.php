@@ -9,6 +9,11 @@
                 "background": "#121212;",
                  "border-top": "1px solid blue;"
             },
+            "#room-bar .icon-room": {
+            "background-image": "url('http://i.imgur.com/ekvxgju.png');",
+            "top": "11px;",
+            "left": "7px;",
+            },
             "#playlist-button": {
                 "background": "#DF013A;"
             },
