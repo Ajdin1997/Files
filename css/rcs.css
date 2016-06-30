@@ -100,3 +100,6 @@ http//balkan19.ga
                 font-weight: bold;
                 color: #ac76ff;
           }
+          #vote .crowd-response.selected {
+               border-top: 5px solid #80170e;
+          }
