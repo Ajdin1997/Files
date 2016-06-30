@@ -3,7 +3,9 @@
 color:#FFFFFF !important;
 }
 
-[data-cid^="3625731-"] .msg .from .icon-chat-manager{
+[data-cid^="3625731-"] #chat .msg {
      background-color: rgba(190, 28, 213, 0.22) !important;
-     border-left: 4px solid #fff;
+     border-left: 3px solid #fff;
+     font-style: normal;
+     pointer-events: none !important;
 }
