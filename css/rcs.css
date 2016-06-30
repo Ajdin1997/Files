@@ -56,8 +56,8 @@
           }
             
             #playlist-menu {
-                background: #0E121B;
-                border-right: 1px solid blue;
+                background: #0E121B !important;
+                border-right: 4px solid #fff !important;
           }
             
             #playlist-menu .button {
