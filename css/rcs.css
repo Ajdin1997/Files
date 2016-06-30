@@ -4,7 +4,7 @@ BALKAN PARTY CUSTOM CSS
 http//balkan19.ga
 
 */
-             #footer {
+          #footer {
             background: #121212;
             border-top: 1px solid blue;
       }
@@ -103,3 +103,6 @@ http//balkan19.ga
           #vote .crowd-response.selected {
                border-top: 5px solid #80170e;
           }
+          #chat .emote{
+               border-left: #FFFFFF 4px solid !important;
+}
