@@ -1,8 +1,9 @@
 /*DAVE1.0*/
 [data-cid^="3625731-"] span.un.clickable{
-color:#FFFFFF!important;
+color:#FFFFFF !important;
 }
 
-[data-cid^="3625731-"] .emote .from .icon-chat-manager{
-     background-color: rgba(190 28 213 0.22);
+[data-cid^="3625731-"] .msg .from .icon-chat-manager{
+     background-color: rgba(190, 28, 213, 0.22) !important;
+     border-left: 4px solid #fff;
 }
