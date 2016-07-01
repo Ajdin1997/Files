@@ -16,7 +16,7 @@ border-top: 1px solid #fff;
 }
 
 #room-bar.icon-room {
-background-image: url("https://www.ajdin.gq/files/theme/plugdj/room_logo.png");
+background: url("https://www.ajdin.gq/files/theme/plugdj/room_logo.png");
 top: 11px;
 left: 7px;
 }
