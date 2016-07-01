@@ -1,7 +1,5 @@
 /* BALKAN PARTY CUSTOM CSS */
 
-@import url("https://rawgit.com/Ajdin1997/Files/master/css/icons.css");
-
           #footer {
             background: #121212;
             border-top: 1px solid blue;
@@ -75,7 +73,8 @@
          }
             
           #chat .emote {
-         border-left: #fff 3px solid!important;
+            border-left: #fff 3px solid!important;
+            background-color: rgba(190, 28, 213, 0.22) !important;
          }
           #chat .moderation, #chat .moderation .from {
                 color: #bf0f0f !important;
