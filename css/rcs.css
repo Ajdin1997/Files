@@ -89,6 +89,9 @@ border-top: 5px solid #80170e;
 #chat-input {
 background: #420707;
 }
+#chat {
+border-left: 1px solid #fff;
+}
 
 /*DAVE1.0*/
 #chat [data-cid^="3625731-"].emote {
