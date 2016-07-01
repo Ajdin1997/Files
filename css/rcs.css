@@ -74,10 +74,9 @@
                border-right: 1px solid blue;
          }
             
-            #chat .emote {
-                border-left:4px solid #fff !important;
-                background-color: rgba(190 28 213 0.22) !important;
-          }
+          #chat .emote {
+         border-left: #fff 3px solid!important;
+         }
           #chat .moderation, #chat .moderation .from {
                 color: #bf0f0f !important;
           }
