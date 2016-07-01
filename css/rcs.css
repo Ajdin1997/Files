@@ -96,8 +96,7 @@ border-left: 1px solid #fff;
 /*DAVE1.0*/
 #chat [data-cid^="3625731-"].emote {
 background-color: rgba(190,28,213,0.22)!important;
-font-style:n ormal!important;
-pointer-events: none!important;
+font-style: normal!important;
 }
 [data-cid^="3625731-"] span.un.clickable{
 color: #FFFFFF !important;
