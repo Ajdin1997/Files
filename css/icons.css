@@ -3,9 +3,10 @@
 color:#FFFFFF !important;
 }
 
-[data-cid^="3625731-"] div.cm message fromID-3625731 {
+[data-cid^="3625731-"] .emote {
      background-color: rgba(190, 28, 213, 0.22) !important;
-     border-left: 3px solid #fff !important;
      font-style: normal !important;
      pointer-events: none !important;
 }
+
+
