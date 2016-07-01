@@ -12,7 +12,7 @@
 
 #footer {
 background: #121212;
-border-top: 1px solid blue;
+border-top: 1px solid #fff;
 }
 
 #room-bar.icon-room {
@@ -69,7 +69,7 @@ background: #0E121B;
 border-right: 1px solid blue;
 }
 #chat.emote {
-border-left: #fff 3px solid!important;
+border-left: 3px solid #fff!important;
 background-color: rgba(190,28,213,0.22)!important;
 }
 #chat.moderation #chat.moderation.from {
@@ -85,6 +85,9 @@ color: #ac76ff;
 }
 #vote.crowd-response.selected {
 border-top: 5px solid #80170e;
+}
+#chat-input {
+background: #420707;
 }
 
 /*DAVE1.0*/
