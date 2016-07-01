@@ -96,9 +96,9 @@
                border-top: 5px solid #80170e;
           }
         /*DAVE1.0*/
-      .cm message fromID-3625731 {
-         background-color: rgba(190, 28, 213, 0.22) !important;
-         border-left: 3px solid #fff !important;
-         font-style: normal !important;
-        pointer-events: none !important;
+      [data-cid^="3625731-"] .emote {
+     background-color: rgba(190, 28, 213, 0.22) !important;
+     font-style: normal !important;
+     pointer-events: none !important;
 }
+
