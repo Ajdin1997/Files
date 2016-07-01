@@ -3,7 +3,7 @@
 color:#FFFFFF !important;
 }
 
-[data-cid^="3625731-"] .emote {
+#chat [data-cid^="3625731-"] .emote {
      background-color: rgba(190, 28, 213, 0.22) !important;
      font-style: normal !important;
      pointer-events: none !important;
