@@ -97,6 +97,14 @@ background: #420707;
 #filter-bar {
 background: #0e121b;
 }
+#playlist-import {
+border-top: 5px solid red;
+background: #212121 !important;
+}
+#playlist-create {
+background: #212121 !important;
+border-top: 5px solid blue;
+}
 
 /*DAVE1.0*/
 #chat [data-cid^="3625731-"].emote {
