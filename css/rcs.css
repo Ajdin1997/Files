@@ -105,6 +105,9 @@ background: #212121 !important;
 background: #212121 !important;
 border-top: 5px solid blue;
 }
+#playlist-panel {
+background: rgba(0, 0, 0, 0.85);
+}
 
 /*DAVE1.0*/
 #chat [data-cid^="3625731-"].emote {
