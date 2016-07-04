@@ -1,7 +1,7 @@
 {
     "room": "BalkanParty",
     "author": "Ajdin",
-    "icon": "http://i.imgur.com/kkK5jC0.png",
+    "icon": "https://www.ajdin.gq/files/theme/plugdj/room_logo.png",
     "css": "https://rawgit.com/Ajdin1997/Files/master/css/rcs.css",
     "rules": {
         "allowAutorespond": true,
