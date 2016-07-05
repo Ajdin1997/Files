@@ -10,6 +10,7 @@
 
 */
 
+/*MAIN*/
 #footer {
 background: #121212;
 border-top: 1px solid #fff;
@@ -153,6 +154,9 @@ border-bottom: 2px solid #fff;
 background: #2c1387;
 border-bottom: 2px solid #fff;
 }
+
+/*SCROLLBAR*/
+
 
 /*DAVE1.0*/
 #chat [data-cid^="3625731-"].emote {
