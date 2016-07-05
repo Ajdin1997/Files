@@ -137,6 +137,19 @@ border-left: 2px solid red;
 background: blue;
 }
 
+/*DASHBOARD*/
+.tab-menu button.selected {
+background: rebeccapurple;
+border-bottom: 2px solid #fff;
+}
+.communities .grid .cell {
+border: 1px solid #fff;
+}
+#dashboard .search {
+background: #5a071c;
+border-bottom: 2px solid #fff;
+}
+
 /*DAVE1.0*/
 #chat [data-cid^="3625731-"].emote {
 background-color: rgba(190,28,213,0.22) !important;
