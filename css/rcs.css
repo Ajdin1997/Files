@@ -149,6 +149,10 @@ border: 1px solid #fff;
 background: #5a071c;
 border-bottom: 2px solid #fff;
 }
+#room-settings .general-settings .option button.off {
+background: #2c1387;
+border-bottom: 2px solid #fff;
+}
 
 /*DAVE1.0*/
 #chat [data-cid^="3625731-"].emote {
