@@ -156,6 +156,24 @@ border-bottom: 2px solid #fff;
 }
 
 /*SCROLLBAR*/
+::-webkit-scrollbar {
+    width: 13px !important;
+    background: rgba(0, 0, 0, 0.72) !important;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 0px !important;
+    -webkit-box-shadow: inset 0 0 10px rgba(216, 9, 9, 1) !important;
+    -moz-box-shadow: inset 0 0 10px rgba(216, 9, 9, 1) !important;
+    box-shadow: inset 0 0 10px rgba(216, 9, 9, 1) !important;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(207, 207, 207, 0.6) !important;
+    -moz-box-shadow: inset 0 0 6px rgba(207, 207, 207, 0.6) !important;
+    box-shadow: inset 0 0 6px rgba(207, 207, 207, 0.6) !important;
+    border-radius: 0px !important;
+}
 
 
 /*DAVE1.0*/
