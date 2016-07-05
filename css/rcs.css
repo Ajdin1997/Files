@@ -42,6 +42,7 @@ color:yellow;
 .app-header {
 background: #121212 !important;
 border-bottom: 2px solid #fff !important;
+color: rgb(232, 59, 59);
 }
 #history-button {
 background: #5A071C;
@@ -107,6 +108,33 @@ border-top: 5px solid blue;
 }
 #playlist-panel {
 background: rgba(0, 0, 0, 0.85);
+}
+.app-right .friends {
+background: #121212;
+border-left: 2px solid red;
+}
+.app-right .friends .header {
+background: rgba(208, 20, 20, 0.48);
+border-bottom: 2px solid #fff;
+}
+.app-right .friends .list-header {
+border-bottom: #fff 1px solid;
+}
+.header-panel-button.selected {
+background-color: rgba(71, 21, 253, 0.50);
+}
+#chat-header {
+border-bottom: 2px solid #fff;
+}
+#user-lists .header, #waitlist .header {
+border-bottom: #fff 2px solid;
+background: rgba(234, 15, 15, 0.17) !important;
+}
+#user-lists, #waitlist {
+border-left: 2px solid red;
+}
+.bar-divider {
+background: blue;
 }
 
 /*DAVE1.0*/
