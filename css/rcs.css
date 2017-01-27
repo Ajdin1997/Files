@@ -3,6 +3,8 @@
    BALKAN PARTY CUSTOM CSS
    Please do not copy or modify without
    permission.
+   
+   Molimo ne kopirajte ili editujete bez dozvole.
 
    If you got any questions use these information:
    http://www.balkan19.ga/contact
@@ -139,8 +141,10 @@ background: blue;
 }
 #playback {
 left: 0 !important;
-{
-
+}
+#dj-button.is-leave .left, #dj-button.is-quit .left {
+background: #121212 !important;
+}
 /*DASHBOARD*/
 .tab-menu button.selected {
 background: rebeccapurple;
@@ -152,6 +156,9 @@ border: 1px solid #fff;
 #dashboard .search {
 background: #5a071c;
 border-bottom: 2px solid #fff;
+}
+#dj-button .left {
+background: #121212 !important;  
 }
 #room-settings .general-settings .option button.off {
 background: #2c1387;
