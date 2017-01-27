@@ -167,6 +167,9 @@ border-bottom: 3px solid #7f0827;
 background: #121212 !important;
 border-bottom: 3px solid #7f0827;     
 }
+#grab.crowd-response.disabled.active .bottom {
+background: #212121 !important;  
+}
 
 /*DASHBOARD*/
 .tab-menu button.selected {
