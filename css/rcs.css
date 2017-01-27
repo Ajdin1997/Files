@@ -164,6 +164,17 @@ background: #121212 !important;
 background: #2c1387;
 border-bottom: 2px solid #fff;
 }
+#vote .crowd-response {
+background: #121212 !important;  
+}
+#woot.crowd-response.disabled.active .bottom {
+background: #121212 !important; 
+border-bottom: 3px solid #7f0827; 
+}
+#meh .bottom, #meh.selected {
+background: #121212;
+border-bottom: 3px solid #7f0827;   
+}
 
 /*SCROLLBAR*/
 ::-webkit-scrollbar {
