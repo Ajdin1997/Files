@@ -28,6 +28,8 @@ background: #DF013A;
 #dj-button {
 background: #121212;
 color: #DF013A;
+border-radius: 50px 0 0 50px !important;
+border: 3px solid #7a0c0c !important;   
 }
 .left {
 background: #0A0A0A;
@@ -85,6 +87,12 @@ left: 4px;
 font-style: normal;
 font-weight: bold;
 color: #ac76ff; 
+}
+#vote {
+border: 3px solid #7a0c0c !important;  
+}
+#woot .bottom, #woot.selected {
+background: #121212 !important;  
 }
 #vote.crowd-response.selected {
 border-top: 5px solid #80170e;
